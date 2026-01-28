@@ -26,17 +26,21 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+  alt="bootstrap" width="40" height="40"/>
+</a>
 
   <!-- Backend -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg"
+  alt="express" width="40" height="40"
+  style="background-color:white; padding:5px; border-radius:8px;"/>
+</a>
+
 
   <!-- Database -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -68,7 +72,6 @@
 </p>
 
 
-# 📊 GitHub Stats:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Saketh-Kusuma&theme=default&hide_border=false&include_all_commits=true&count_private=false)
