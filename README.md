@@ -144,45 +144,21 @@ Frontend
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saketh-kusuma&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Saketh-Kusuma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="170"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-kusuma&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Kusuma&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=saketh-kusuma&theme=tokyonight&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=Saketh-Kusuma&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saketh-kusuma&theme=tokyo-night&hide_border=true"
-    width="95%"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=saketh-kusuma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
-    width="95%"
-  />
-</p>
-
 ---
 
 ## 🧩 Problem Solving
