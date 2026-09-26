@@ -143,21 +143,13 @@ Frontend
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Saketh-Kusuma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Kusuma&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <a href="https://github.com/Saketh-Kusuma">
+    <img src="https://img.shields.io/badge/GitHub-Saketh--Kusuma-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Saketh-Kusuma&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <i>Check out my repositories and contributions on GitHub.</i>
 </p>
 
 ---
