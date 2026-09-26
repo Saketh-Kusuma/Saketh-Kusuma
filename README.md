@@ -20,8 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate from Hyderabad, India, passionate about building
-scalable, responsive, and user-focused web applications.
+I'm a Computer Science graduate from Hyderabad, India, passionate about building scalable, responsive, and user-focused web applications.
 
 - 💻 Strong foundation in **Java, JavaScript, TypeScript & SQL**
 - ⚛️ Building modern web applications with **React & Next.js**
@@ -138,8 +137,11 @@ Frontend
  ├── TypeScript
  └── Modern UI Development
 ```
+
 ---
-##📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=saketh-kusuma&show_icons=true&theme=tokyonight&hide_border=true"
@@ -158,4 +160,73 @@ Frontend
     height="170"
   />
 </p>
+
 ---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saketh-kusuma&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=saketh-kusuma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
+    width="95%"
+  />
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Currently improving my Data Structures & Algorithms and problem-solving skills.</i>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/saketh-kusuma">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://saketh-kusuma.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:kusumasaketh92@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=saketh-kusuma&label=Profile%20Views&color=0e75b6&style=flat"
+  />
+</p>
+
+<p align="center">
+  <i>💡 Building. Learning. Improving. One commit at a time.</i>
+</p>
